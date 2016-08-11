@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">AJson-AndroidStudio</string>
+    <string name="action_settings">action_settings</string>
+    <string-array name="mainlistdata">
+        <item >JSON组包和解包</item>
+        <item >数据库存储读写</item>
+        <item >View初始化框架</item>
+    </string-array>
+    <string-array name="listdata">
+        <item >张三</item>
+        <item >李四</item>
+        <item >王五</item>
+        <item >赵六</item>
+        <item >孙七</item>
+        <item >潘八</item>
+        <item >杨九</item>
+        <item >牛十</item>
+        <item >曹操</item>
+        <item >诸葛亮</item>
+        <item >刘备</item>
+        <item >孙权</item>
+    </string-array>
+    <string-array name="sanguo">
+        <item >曹操</item>
+        <item >诸葛亮</item>
+        <item >刘备</item>
+        <item >孙权</item>
+    </string-array>
+    <string-array name="shuihuzhuan">
+        <item >武松</item>
+        <item >鲁智深</item>
+        <item >松江</item>
+        <item >林冲</item>
+        <item >李逵</item>
+        <item >石阡</item>
+    </string-array>
+    <string-array name="xiyouji">
+        <item >唐僧</item>
+        <item >孙悟空</item>
+        <item >猪八戒</item>
+        <item >沙僧</item>
+        <item >白龙马</item>
+        <item >佛祖</item>
+        <item >观音菩萨</item>
+        <item >龙王</item>
+        <item >白骨精</item>
+    </string-array>
+    <string-array name="hongloumeng">
+        <item >贾宝玉</item>
+        <item >林黛玉</item>
+        <item >贾雨村</item>
+        <item >薛宝钗</item>
+    </string-array>
+    <string-array name="book">
+        <item >三国演义</item>
+        <item >西游记</item>
+        <item >水浒传</item>
+        <item >红楼梦</item>
+    </string-array>
+    <string-array name="tabs">
+        <item >首页</item>
+        <item >消息</item>
+        <item >好友</item>
+        <item >搜索</item>
+        <item >我的</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical">
+	    <EditText
+	        android:id="@+id/et_content"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	         />
+	    <Button
+	        android:id="@+id/btn"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="解包" />
+	    <Button
+	        android:id="@+id/btn2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="查看错误日志" />
+	    <com.aiitec.openapi.demo.widget.NoScrollListView
+	        android:id="@+id/lv"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	         />
+        
+    </LinearLayout>
+
+</ScrollView>
